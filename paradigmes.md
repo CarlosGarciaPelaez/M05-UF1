@@ -25,7 +25,9 @@ La idea és que qualsevol programa, per complex i gran que sigui, pot ser
 representat mitjançant tres tipus d’estructures de control:
 
 • Seqüència.
+
 • Selecció.
+
 • Iteració.
 
 ###Paradigma d'objectes
