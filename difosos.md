@@ -82,4 +82,45 @@ tipus abstractes de dades*, on el programador pot *definir un nou tipus de dades
 les seves possibles operacions.
 
 
+##Característiques de la programació orientada a objectes
+
+Un dels conceptes importants introduïts per la programació estructurada és l’abstracció
+de funcionalitats a través de **funcions i procediments**. Aquesta abstracció
+permet a un programador utilitzar una funció o procediment coneixent només què
+fa, però desconeixent el detall de com ho fa.
+
+*Aquest fet, però, té diversos inconvenients:*
+
+• Les funcions i procediments comparteixen dades del programa, cosa que
+provoca que canvis en un d’ells afectin a la resta.
+
+• Al moment de dissenyar una aplicació és molt difícil preveure detalladament
+quines funcions i procediments necessitarem.
+
+• La reutilització del codi és difícil i acaba consistint a copiar i enganxar
+determinats trossos de codi, i retocar-los. Això és especialment habitual
+quan el codi no és modular.
+
+**L’orientació a objectes** (en endavant, OO) és un paradigma de construcció
+de programes basat en una abstracció del món real.
+
+**Un objecte** és una combinació de dades (anomenades atributs) i mètodes
+(funcions i procediments) que ens permeten interactuar amb ell. En OO,
+doncs, els programes són conjunts d’objectes que interactuen entre ells a
+través de missatges (crides a mètodes).
+
+**Els llenguatges de POO** (programació orientada a objectes) són aquells que
+implementen més o menys fidelment el paradigma OO. 
+
+*La programació orientada a objectes es basa en la integració de 5 conceptes:*
+
+- abstracció 
+
+- encapsulació
+
+- modularitat
+
+- jerarquia
+
+- polimorfisme
 
