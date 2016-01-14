@@ -133,7 +133,13 @@ qualitat del compilador que faci la traducció.
 
 ###Llenguatges de quarta generació
 
-Els llenguatges de quarta generació o llenguatges de propòsit específic.
+Els **llenguatges de quarta generació** o llenguatges de propòsit específic.
 Aporten un nivell molt alt d’abstracció en la programació, permetent
 desenvolupar aplicacions sofisticades en un espai curt de temps, molt inferior
 al necessari per als llenguatges de 3a generació.
+
+###Llenguatges de cinquena generació
+
+Els **llenguatges de cinquena generació** són llenguatges específics per al
+tractament de problemes relacionats amb la intel·ligència artificial i els
+sistemes experts.
