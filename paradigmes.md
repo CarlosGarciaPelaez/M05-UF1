@@ -42,17 +42,17 @@ com ara un llibre, una persona, una comanda, un empleat...
 
 *Alguns dels llenguatges de programació orientada a objectes són C++, Java, C#...*
 
-        **Un objecte** és una combinació de dades (anomenades atributs) i mètodes (funcions
-        i procediments) que ens permeten interactuar amb ell. En aquest tipus de
-        programació, per tant, els programes són conjunts d’objectes que interactuen entre
-        ells a través de missatges (crides a mètodes).
+**Un objecte** és una combinació de dades (anomenades atributs) i mètodes (funcions
+i procediments) que ens permeten interactuar amb ell. En aquest tipus de
+programació, per tant, els programes són conjunts d’objectes que interactuen entre
+ells a través de missatges (crides a mètodes).
 
 
-        **La programació orientada a objectes** es basa en la integració de 5 conceptes:
-        abstracció, encapsulació, modularitat, jerarquia i polimorfisme, que és necessari
-        comprendre i seguir de manera absolutament rigorosa. No seguir-los sistemàticament,
-        ometre’ls puntualment per pressa o altres raons fa perdre tot el valor i els
-        beneficis que ens aporta l’orientació a objectes.
+ **La programació orientada a objectes** es basa en la integració de 5 conceptes:
+abstracció, encapsulació, modularitat, jerarquia i polimorfisme, que és necessari
+comprendre i seguir de manera absolutament rigorosa. No seguir-los sistemàticament,
+ometre’ls puntualment per pressa o altres raons fa perdre tot el valor i els
+beneficis que ens aporta l’orientació a objectes.
 
 ###Paradigma funcional
 
